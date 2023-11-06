@@ -1,0 +1,1653 @@
+- accepted_at: '2015-06-15'
+  category: Ericsson hosted
+  description: CodeChecker is an analyzer tooling, defect database and viewer extension
+    for the Clang Static Analyzer and Clang Tidy
+  display_name: codechecker
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: codechecker
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: codechecker
+    url: https://github.com/Ericsson/codechecker
+- accepted_at: '2018-08-24'
+  category: Ericsson hosted
+  description: Ericsson Audit plug-in for Apache Cassandra
+  display_name: ecaudit
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ecaudit
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ecaudit
+    url: https://github.com/Ericsson/ecaudit
+- accepted_at: '2016-03-30'
+  category: Ericsson hosted
+  description: CodeCompass is a software comprehension tool for large scale software
+    written in C/C++ and Java
+  display_name: CodeCompass
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: CodeCompass
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: CodeCompass
+    url: https://github.com/Ericsson/CodeCompass
+- accepted_at: '2018-01-19'
+  category: Ericsson hosted
+  description: 'APEX: Adaptive Policy eXecution Engine'
+  display_name: apex
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: apex
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: apex
+    url: https://github.com/Ericsson/apex
+- accepted_at: '2016-05-04'
+  category: Ericsson hosted
+  description: Provides code for compression of textures for ETC1, ETC2 and  EAC textures
+  display_name: ETCPACK
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ETCPACK
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ETCPACK
+    url: https://github.com/Ericsson/ETCPACK
+- accepted_at: '2021-06-21'
+  category: Ericsson hosted
+  description: VSCode plugin that shows bugs detected by the Clang Static Analyzer
+    and Clang Tidy analyzers using CodeChecker as a backend.
+  display_name: CodecheckerVSCodePlugin
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: CodecheckerVSCodePlugin
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: CodecheckerVSCodePlugin
+    url: https://github.com/Ericsson/CodecheckerVSCodePlugin
+- accepted_at: '2022-09-27'
+  category: Ericsson hosted
+  description: 'Example SUPL 3GPP LPP client for connecting and requesting assistance
+    information. Including support for converting 3GPP LPP assistance data to RTCM. '
+  display_name: SUPL-3GPP-LPP-client
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: SUPL-3GPP-LPP-client
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: SUPL-3GPP-LPP-client
+    url: https://github.com/Ericsson/SUPL-3GPP-LPP-client
+- accepted_at: '2023-07-03'
+  category: Ericsson hosted
+  description: A repository for contributions related to the ESSVT test automation
+    tool
+  display_name: essvt
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: essvt
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: essvt
+    url: https://github.com/Ericsson/essvt
+- accepted_at: '2020-06-15'
+  category: Ericsson hosted
+  description: The Extensible Connection-oriented Messaging (XCM) library.
+  display_name: xcm
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: xcm
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: xcm
+    url: https://github.com/Ericsson/xcm
+- accepted_at: '2014-07-01'
+  category: Ericsson hosted
+  description: Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
+  display_name: exchangecalendar
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: exchangecalendar
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: exchangecalendar
+    url: https://github.com/Ericsson/exchangecalendar
+- accepted_at: '2023-06-12'
+  category: Ericsson hosted
+  description: Backstage is an open platform for building developer portals
+  display_name: backstage
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: backstage
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: backstage
+    url: https://github.com/Ericsson/backstage
+- accepted_at: '2022-06-09'
+  category: Ericsson hosted
+  description: An Erlang client library for Redis Cluster
+  display_name: ered
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ered
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ered
+    url: https://github.com/Ericsson/ered
+- accepted_at: '2018-10-10'
+  category: Ericsson hosted
+  description: Ericsson distributed repair scheduler for Apache Cassandra
+  display_name: ecchronos
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ecchronos
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ecchronos
+    url: https://github.com/Ericsson/ecchronos
+- accepted_at: '2023-08-21'
+  category: Ericsson hosted
+  description: null
+  display_name: workflow-test
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: workflow-test
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: workflow-test
+    url: https://github.com/Ericsson/workflow-test
+- accepted_at: '2020-06-22'
+  category: Ericsson hosted
+  description: Pathfinder service discovery client library
+  display_name: libpaf
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: libpaf
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: libpaf
+    url: https://github.com/Ericsson/libpaf
+- accepted_at: '2023-08-14'
+  category: Ericsson hosted
+  description: A footprint-optimized Pathfinder server
+  display_name: tpaf
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: tpaf
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: tpaf
+    url: https://github.com/Ericsson/tpaf
+- accepted_at: '2018-04-25'
+  category: Ericsson hosted
+  description: Powerful interception library that lets you at runtime change the behavior
+    of objects and classes
+  display_name: proxy
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: proxy
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: proxy
+    url: https://github.com/Ericsson/proxy
+- accepted_at: '2023-04-13'
+  category: Ericsson hosted
+  description: null
+  display_name: ros2-3gppSA6-mapper
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-3gppSA6-mapper
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-3gppSA6-mapper
+    url: https://github.com/Ericsson/ros2-3gppSA6-mapper
+- accepted_at: '2016-06-16'
+  category: Ericsson hosted
+  description: Peer-to-peer video conferencing using Ericsson C3
+  display_name: c3-meet
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-meet
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-meet
+    url: https://github.com/Ericsson/c3-meet
+- accepted_at: '2016-07-01'
+  category: Ericsson hosted
+  description: This is an Eclipse plugin that shows C/C++  static analysis results
+    found by Clang Static Analyzer and Clang Tidy
+  display_name: CodeCheckerEclipsePlugin
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: CodeCheckerEclipsePlugin
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: CodeCheckerEclipsePlugin
+    url: https://github.com/Ericsson/CodeCheckerEclipsePlugin
+- accepted_at: '2019-04-23'
+  category: Ericsson hosted
+  description: EVA is a web-based tool for efficient annotation of videos and image
+    sequences and has an additional tracking capabilities
+  display_name: eva
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eva
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eva
+    url: https://github.com/Ericsson/eva
+- accepted_at: '2020-06-22'
+  category: Ericsson hosted
+  description: Pathfinder service discovery server
+  display_name: paf
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: paf
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: paf
+    url: https://github.com/Ericsson/paf
+- accepted_at: '2017-09-07'
+  category: Ericsson hosted
+  description: This repository contains the source code used in the experiments of
+    the Master's Thesis "Tuning of machine learning algorithms for automatic bug assignment"
+    (Daniel Artchounin), conducted on Eclipse JDT and Mozilla Firefox. In this Master's
+    Thesis, a systematic four-step method to find some of the best configurations
+    of several machine learning algorithms intending to solve the automatic bug assignment
+    problem has been introduced. This method has been evaluated on 66 066 bug reports
+    of Ericsson, 24 450 bug reports of Eclipse JDT and 30 358 bug reports of Mozilla
+    Firefox.
+  display_name: oss-automatic-bug-assignment
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: oss-automatic-bug-assignment
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: oss-automatic-bug-assignment
+    url: https://github.com/Ericsson/oss-automatic-bug-assignment
+- accepted_at: '2023-01-31'
+  category: Ericsson hosted
+  description: ZOTI (Zero Overhead Topology Infrastructure) is a collection of tools
+    for describing code synthesis flows towards heterogeneous platforms.
+  display_name: zoti
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: zoti
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: zoti
+    url: https://github.com/Ericsson/zoti
+- accepted_at: '2020-06-30'
+  category: Ericsson hosted
+  description: The code herein is a sample implementation of the Ericsson submission
+    to the ITU-T SG12 P.NATS phase 2 competition for a no-reference pixel based video
+    quality estimation module
+  display_name: PXNR-No-reference-video-quality-estimation
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: PXNR-No-reference-video-quality-estimation
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: PXNR-No-reference-video-quality-estimation
+    url: https://github.com/Ericsson/PXNR-No-reference-video-quality-estimation
+- accepted_at: '2019-04-29'
+  category: Ericsson hosted
+  description: OVE gathers git repositories and the knowledge how to build and test
+    them
+  display_name: ove
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ove
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ove
+    url: https://github.com/Ericsson/ove
+- accepted_at: '2017-06-15'
+  category: Ericsson hosted
+  description: Custom gazebo_ros_control simulation plugin that can add latency to
+    communication between ros_control and gazebo
+  display_name: robot_hw_sim_latency
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: robot_hw_sim_latency
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: robot_hw_sim_latency
+    url: https://github.com/Ericsson/robot_hw_sim_latency
+- accepted_at: '2018-10-04'
+  category: Ericsson hosted
+  description: jaq is a CLI tool for scripting and chaining JSON API requests.
+  display_name: jaq
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: jaq
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: jaq
+    url: https://github.com/Ericsson/jaq
+- accepted_at: '2013-05-21'
+  category: Ericsson hosted
+  description: Puppet module to manage DELL Authentication Services previously known
+    as VAS or Quest Authentication Services
+  display_name: puppet-module-vas
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-vas
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-vas
+    url: https://github.com/Ericsson/puppet-module-vas
+- accepted_at: '2017-03-07'
+  category: Ericsson hosted
+  description: Open Source HDS Agent
+  display_name: ericsson-hds-agent
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ericsson-hds-agent
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ericsson-hds-agent
+    url: https://github.com/Ericsson/ericsson-hds-agent
+- accepted_at: '2019-02-11'
+  category: Ericsson hosted
+  description: A packet interceptor for Android built on top of VpnService
+  display_name: extendedVPN
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: extendedVPN
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: extendedVPN
+    url: https://github.com/Ericsson/extendedVPN
+- accepted_at: '2016-09-20'
+  category: Ericsson hosted
+  description: Cross Translation Unit analysis capability for Clang Static Analyzer.
+    (Fork of official clang at http://llvm.org/git/clang)
+  display_name: clang
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: clang
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: clang
+    url: https://github.com/Ericsson/clang
+- accepted_at: '2022-06-14'
+  category: Ericsson hosted
+  description: A book on data plane software design
+  display_name: dataplanebook
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: dataplanebook
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: dataplanebook
+    url: https://github.com/Ericsson/dataplanebook
+- accepted_at: '2013-08-26'
+  category: Ericsson hosted
+  description: Scripts to extract and package NetBackup
+  display_name: package-netbackup
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: package-netbackup
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: package-netbackup
+    url: https://github.com/Ericsson/package-netbackup
+- accepted_at: '2013-11-08'
+  category: Ericsson hosted
+  description: Puppet module to manage sudo
+  display_name: puppet-module-sudo
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-sudo
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-sudo
+    url: https://github.com/Ericsson/puppet-module-sudo
+- accepted_at: '2013-05-16'
+  category: Ericsson hosted
+  description: Puppet module to manage MOTD
+  display_name: puppet-module-motd
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-motd
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-motd
+    url: https://github.com/Ericsson/puppet-module-motd
+- accepted_at: '2021-11-18'
+  category: Ericsson hosted
+  description: Scanner for vulnerabilities in container images, file systems, and
+    Git repositories, as well as for configuration issues
+  display_name: trivy
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: trivy
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: trivy
+    url: https://github.com/Ericsson/trivy
+- accepted_at: '2015-12-17'
+  category: Ericsson hosted
+  description: JIRA OSLC plugin is a JIRA add-on. Main role of this plugin is extend
+    JIRA functionalities to provide establishing and removing OSLC links between JIRA
+    issue and external OSLC object. Plugin enables handling OSLC links in N to M mode.
+    The plugin supporting JIRA7 is stored in 'jira7' branch.
+  display_name: jira-oslc-plugin
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: jira-oslc-plugin
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: jira-oslc-plugin
+    url: https://github.com/Ericsson/jira-oslc-plugin
+- accepted_at: '2013-05-21'
+  category: Ericsson hosted
+  description: Puppet module to manage a NIS client
+  display_name: puppet-module-nisclient
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-nisclient
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-nisclient
+    url: https://github.com/Ericsson/puppet-module-nisclient
+- accepted_at: '2017-08-21'
+  category: Ericsson hosted
+  description: Artemis is a highly scalable parallel and distributed cloud simulation
+    suite that can be used to simulate cloud scenarios involving millions of live
+    simulation entities and thousands of events per second. It provides the base APIs
+    for creation and modelling of cloud resources, cloud consumers, and cloud control
+    mechanisms. Artemis is developed with the main focus on design, implementation
+    and evaluation of methodologies targeting the outstanding problems in cloud computing
+    such as virtual service placement, dynamic resource management, resource provision
+    modelling, resource usage modelling, virtual network embedding, cloud dimensioning,
+    resource monitoring, fault tolerance, and high availability.
+  display_name: artemis
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: artemis
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: artemis
+    url: https://github.com/Ericsson/artemis
+- accepted_at: '2020-11-04'
+  category: Ericsson hosted
+  description: Ardesco extension for VS Code
+  display_name: Ardesco-VSCode-Extension
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: Ardesco-VSCode-Extension
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Ardesco-VSCode-Extension
+    url: https://github.com/Ericsson/Ardesco-VSCode-Extension
+- accepted_at: '2020-11-04'
+  category: Ericsson hosted
+  description: Ardesco software development kit
+  display_name: Ardesco-SDK
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: Ardesco-SDK
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Ardesco-SDK
+    url: https://github.com/Ericsson/Ardesco-SDK
+- accepted_at: '2019-05-28'
+  category: Ericsson hosted
+  description: OVE tutorial
+  display_name: ove-tutorial
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ove-tutorial
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ove-tutorial
+    url: https://github.com/Ericsson/ove-tutorial
+- accepted_at: '2021-11-18'
+  category: Ericsson hosted
+  description: Production-Grade Container Scheduling and Management
+  display_name: kubernetes
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: kubernetes
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: kubernetes
+    url: https://github.com/Ericsson/kubernetes
+- accepted_at: '2019-04-30'
+  category: Ericsson hosted
+  description: This is the canonical git mirror of the LLVM subversion repository.
+    The repository does not accept github pull requests at this moment. Please submit
+    your patches at http://reviews.llvm.org.
+  display_name: llvm-project
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: llvm-project
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: llvm-project
+    url: https://github.com/Ericsson/llvm-project
+- accepted_at: '2015-12-17'
+  category: Ericsson hosted
+  description: OSLC TFS Adapter extends TFS with OSLC/REST interface. It allows access
+    to TFS data from other external tools or systems. OSLC TFS Consumer is TFS plugin
+    which updates data of external tools or systems using their OSLC/REST interface.
+  display_name: tfs-oslc-adapter
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: tfs-oslc-adapter
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: tfs-oslc-adapter
+    url: https://github.com/Ericsson/tfs-oslc-adapter
+- accepted_at: '2021-02-04'
+  category: Ericsson hosted
+  description: Implementation of the ROS Middleware (rmw) Interface using RTI's Connext
+    DDS.
+  display_name: ros2-rmw_connext
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rmw_connext
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rmw_connext
+    url: https://github.com/Ericsson/ros2-rmw_connext
+- accepted_at: '2020-09-30'
+  category: Ericsson hosted
+  description: Design documentation for ROS 2.0 effort
+  display_name: ros2-design
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-design
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-design
+    url: https://github.com/Ericsson/ros2-design
+- accepted_at: '2021-03-25'
+  category: Ericsson hosted
+  description: ROS 2 RMW layer for RTI Connext DDS Professional and RTI Connext DDS
+    Micro.
+  display_name: ros2-rmw_connextdds
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rmw_connextdds
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rmw_connextdds
+    url: https://github.com/Ericsson/ros2-rmw_connextdds
+- accepted_at: '2021-02-04'
+  category: Ericsson hosted
+  description: ROS 2 RMW layer for Eclipse Cyclone DDS
+  display_name: ros2-rmw_cyclonedds
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rmw_cyclonedds
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rmw_cyclonedds
+    url: https://github.com/Ericsson/ros2-rmw_cyclonedds
+- accepted_at: '2020-09-30'
+  category: Ericsson hosted
+  description: CMake infrastructure and dependencies for rmw implementations
+  display_name: ros2-rmw_implementation
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rmw_implementation
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rmw_implementation
+    url: https://github.com/Ericsson/ros2-rmw_implementation
+- accepted_at: '2020-09-30'
+  category: Ericsson hosted
+  description: The ROS Middleware (rmw) Interface.
+  display_name: ros2-rmw
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rmw
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rmw
+    url: https://github.com/Ericsson/ros2-rmw
+- accepted_at: '2020-12-07'
+  category: Ericsson hosted
+  description: Library to support implementation of language specific ROS Client Libraries.
+  display_name: ros2-rcl
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rcl
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rcl
+    url: https://github.com/Ericsson/ros2-rcl
+- accepted_at: '2020-09-30'
+  category: Ericsson hosted
+  description: rclcpp (ROS Client Library for C++)
+  display_name: ros2-rclcpp
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rclcpp
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rclcpp
+    url: https://github.com/Ericsson/ros2-rclcpp
+- accepted_at: '2020-12-07'
+  category: Ericsson hosted
+  description: Example packages for ROS2
+  display_name: ros2-examples
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-examples
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-examples
+    url: https://github.com/Ericsson/ros2-examples
+- accepted_at: '2019-11-12'
+  category: Ericsson hosted
+  description: Build scripts for Clang CTU analysis build server
+  display_name: clang-jenkins
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: clang-jenkins
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: clang-jenkins
+    url: https://github.com/Ericsson/clang-jenkins
+- accepted_at: '2020-12-07'
+  category: Ericsson hosted
+  description: null
+  display_name: ros2-demos
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-demos
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-demos
+    url: https://github.com/Ericsson/ros2-demos
+- accepted_at: '2020-12-07'
+  category: Ericsson hosted
+  description: rclpy (ROS Client Library for Python)
+  display_name: ros2-rclpy
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rclpy
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rclpy
+    url: https://github.com/Ericsson/ros2-rclpy
+- accepted_at: '2018-04-25'
+  category: Ericsson hosted
+  description: 'Scenarios is an advanced way to define and schedule test execution
+    using Java API. Scenarios give flexibility of executing tests in parallel, repeating
+    same test code with different input data and simulating events combining multiple
+    executions of Flows. Scenarios allow defining a wide variety of tests: from Acceptance
+    and Integration tests to End-to-End and Performance tests. For debugging advanced
+    executions, Scenarios provide visualization support.'
+  display_name: scenarios
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: scenarios
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: scenarios
+    url: https://github.com/Ericsson/scenarios
+- accepted_at: '2020-09-30'
+  category: Ericsson hosted
+  description: Implementation of the ROS Middleware (rmw) Interface using eProsima's
+    Fast RTPS.
+  display_name: ros2-rmw_fastrtps
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ros2-rmw_fastrtps
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ros2-rmw_fastrtps
+    url: https://github.com/Ericsson/ros2-rmw_fastrtps
+- accepted_at: '2016-10-14'
+  category: Ericsson hosted
+  description: Demo banking app for Ericsson Contextual Communication Cloud
+  display_name: c3-bank-demo
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-bank-demo
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-bank-demo
+    url: https://github.com/Ericsson/c3-bank-demo
+- accepted_at: '2020-02-25'
+  category: Ericsson hosted
+  description: RAN-TS
+  display_name: RAN-TS
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: RAN-TS
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: RAN-TS
+    url: https://github.com/Ericsson/RAN-TS
+- accepted_at: '2015-11-23'
+  category: Ericsson hosted
+  description: EU-FP7-UNIFY's virtualizer library implemented in Python
+  display_name: unify-virtualizer
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: unify-virtualizer
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: unify-virtualizer
+    url: https://github.com/Ericsson/unify-virtualizer
+- accepted_at: '2016-11-10'
+  category: Ericsson hosted
+  description: eiffel-operations-extension
+  display_name: eiffel-operations-extension
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-operations-extension
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-operations-extension
+    url: https://github.com/Ericsson/eiffel-operations-extension
+- accepted_at: '2019-04-01'
+  category: Ericsson hosted
+  description: A number of feature patches for Eclipse Papyrus fixing the Sequence
+    diagrams
+  display_name: papyrus-patches
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: papyrus-patches
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: papyrus-patches
+    url: https://github.com/Ericsson/papyrus-patches
+- accepted_at: '2016-06-14'
+  category: Ericsson hosted
+  description: Interactive guide to Ericsson C3 Web SDK
+  display_name: c3-web-guide
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-web-guide
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-web-guide
+    url: https://github.com/Ericsson/c3-web-guide
+- accepted_at: '2017-02-28'
+  category: Ericsson hosted
+  description: Puppet module to manage Vim
+  display_name: puppet-module-vim
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-vim
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-vim
+    url: https://github.com/Ericsson/puppet-module-vim
+- accepted_at: '2016-06-16'
+  category: Ericsson hosted
+  description: Drop and share files using Ericsson C3
+  display_name: c3-drop
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-drop
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-drop
+    url: https://github.com/Ericsson/c3-drop
+- accepted_at: '2018-08-30'
+  category: Ericsson hosted
+  description: Mirror of official lldb git repository located at http://llvm.org/git/lldb.
+    Updated every five minutes.
+  display_name: lldb
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: lldb
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: lldb
+    url: https://github.com/Ericsson/lldb
+- accepted_at: '2016-06-01'
+  category: Ericsson hosted
+  description: C3 Web Examples
+  display_name: c3-web-examples
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-web-examples
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-web-examples
+    url: https://github.com/Ericsson/c3-web-examples
+- accepted_at: '2013-09-25'
+  category: Ericsson hosted
+  description: null
+  display_name: puppetlabs-ruby
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppetlabs-ruby
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppetlabs-ruby
+    url: https://github.com/Ericsson/puppetlabs-ruby
+- accepted_at: '2013-09-25'
+  category: Ericsson hosted
+  description: null
+  display_name: puppet-module-auditusers
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-auditusers
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-auditusers
+    url: https://github.com/Ericsson/puppet-module-auditusers
+- accepted_at: '2013-09-30'
+  category: Ericsson hosted
+  description: A puppet module for installing and managing puppetdb
+  display_name: puppetlabs-puppetdb
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppetlabs-puppetdb
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppetlabs-puppetdb
+    url: https://github.com/Ericsson/puppetlabs-puppetdb
+- accepted_at: '2013-10-01'
+  category: Ericsson hosted
+  description: Puppet module to manage Obversvium
+  display_name: puppet-module-observium
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-observium
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-observium
+    url: https://github.com/Ericsson/puppet-module-observium
+- accepted_at: '2013-10-22'
+  category: Ericsson hosted
+  description: Script to use FPM to package Observium
+  display_name: package-observium
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: package-observium
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: package-observium
+    url: https://github.com/Ericsson/package-observium
+- accepted_at: '2013-11-05'
+  category: Ericsson hosted
+  description: Puppet module to manage directory coloring for ls
+  display_name: puppet-module-dircolors
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-dircolors
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-dircolors
+    url: https://github.com/Ericsson/puppet-module-dircolors
+- accepted_at: '2015-02-27'
+  category: Ericsson hosted
+  description: null
+  display_name: ebeam-tools
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ebeam-tools
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ebeam-tools
+    url: https://github.com/Ericsson/ebeam-tools
+- accepted_at: '2014-04-09'
+  category: Ericsson hosted
+  description: Boilerplate module skeleton to use when generating new Puppet modules
+  display_name: puppet-module-skeleton
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-skeleton
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-skeleton
+    url: https://github.com/Ericsson/puppet-module-skeleton
+- accepted_at: '2014-04-09'
+  category: Ericsson hosted
+  description: Puppet module to manage hponcfg
+  display_name: puppet-module-hponcfg
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-hponcfg
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-hponcfg
+    url: https://github.com/Ericsson/puppet-module-hponcfg
+- accepted_at: '2014-05-08'
+  category: Ericsson hosted
+  description: puppet module for the CUPS printing system
+  display_name: puppet-cups
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-cups
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-cups
+    url: https://github.com/Ericsson/puppet-cups
+- accepted_at: '2013-11-11'
+  category: Ericsson hosted
+  description: Puppet module to manage viewvc
+  display_name: puppet-module-viewvc
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-viewvc
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-viewvc
+    url: https://github.com/Ericsson/puppet-module-viewvc
+- accepted_at: '2013-08-14'
+  category: Ericsson hosted
+  description: Scripts to build and package nrpe_plugins
+  display_name: package_nagios_plugins
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: package_nagios_plugins
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: package_nagios_plugins
+    url: https://github.com/Ericsson/package_nagios_plugins
+- accepted_at: '2015-02-27'
+  category: Ericsson hosted
+  description: Ebeam USB Driver 0.9 by Yann Cantin
+  display_name: ebeam-driver
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: ebeam-driver
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ebeam-driver
+    url: https://github.com/Ericsson/ebeam-driver
+- accepted_at: '2015-04-06'
+  category: Ericsson hosted
+  description: 'Pidgin and Finch: The Pimpin'' Penguin IM Clients That''re Good for
+    the Soul - a git mirror of http://hg.pidgin.im/pidgin/main/'
+  display_name: pidgin
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: pidgin
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: pidgin
+    url: https://github.com/Ericsson/pidgin
+- accepted_at: '2015-04-07'
+  category: Ericsson hosted
+  description: The Puppet Dashboard is a web interface providing node classification
+    and reporting features for Puppet, an open source system configuration management
+    tool
+  display_name: puppet-dashboard
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-dashboard
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-dashboard
+    url: https://github.com/Ericsson/puppet-dashboard
+- accepted_at: '2015-01-28'
+  category: Ericsson hosted
+  description: A third-party Pidgin plugin for Microsoft Lync/OCS - clone of upstream
+    http://repo.or.cz/w/siplcs.git
+  display_name: sipe
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: sipe
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: sipe
+    url: https://github.com/Ericsson/sipe
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: 'An OBS source service: Recompress files'
+  display_name: obs-service-recompress
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: obs-service-recompress
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: obs-service-recompress
+    url: https://github.com/Ericsson/obs-service-recompress
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: OBS source service to extract files from tar balls, eg .spec files
+    maintained inside of the tar ball.
+  display_name: obs-service-extract_file
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: obs-service-extract_file
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: obs-service-extract_file
+    url: https://github.com/Ericsson/obs-service-extract_file
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: 'An OBS source service: Update spec file version'
+  display_name: obs-service-set_version
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: obs-service-set_version
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: obs-service-set_version
+    url: https://github.com/Ericsson/obs-service-set_version
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: 'An OBS source service: fetches SCM tarballs'
+  display_name: obs-service-tar_scm
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: obs-service-tar_scm
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: obs-service-tar_scm
+    url: https://github.com/Ericsson/obs-service-tar_scm
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: Compare content of rpm package and find differences inside the files.
+  display_name: build-compare
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: build-compare
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: build-compare
+    url: https://github.com/Ericsson/build-compare
+- accepted_at: '2015-02-16'
+  category: Ericsson hosted
+  description: Resources for the user guides...
+  display_name: userguide-resources
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: userguide-resources
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: userguide-resources
+    url: https://github.com/Ericsson/userguide-resources
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: OBS build script, can be used with OBS or stand alone
+  display_name: obs-build
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: obs-build
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: obs-build
+    url: https://github.com/Ericsson/obs-build
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: The Command Line Interface to work with an openSUSE Build Service
+  display_name: osc
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: osc
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: osc
+    url: https://github.com/Ericsson/osc
+- accepted_at: '2013-09-11'
+  category: Ericsson hosted
+  description: Puppet module to manage TACACS+
+  display_name: puppet-module-tacacsplus
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-tacacsplus
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-tacacsplus
+    url: https://github.com/Ericsson/puppet-module-tacacsplus
+- accepted_at: '2013-08-14'
+  category: Ericsson hosted
+  description: Scripts to build and package nrpe
+  display_name: package_nrpe
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: package_nrpe
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: package_nrpe
+    url: https://github.com/Ericsson/package_nrpe
+- accepted_at: '2014-01-16'
+  category: Ericsson hosted
+  description: Puppet module to manage cron
+  display_name: puppet-module-cron
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-cron
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-cron
+    url: https://github.com/Ericsson/puppet-module-cron
+- accepted_at: '2013-11-07'
+  category: Ericsson hosted
+  description: Puppet module to manage Citrix Presentation Server for UNIX
+  display_name: puppet-module-citrix_unix
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-citrix_unix
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-citrix_unix
+    url: https://github.com/Ericsson/puppet-module-citrix_unix
+- accepted_at: '2013-08-21'
+  category: Ericsson hosted
+  description: Puppet module to manage NetBackup
+  display_name: puppet-module-netbackup
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-netbackup
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-netbackup
+    url: https://github.com/Ericsson/puppet-module-netbackup
+- accepted_at: '2013-09-05'
+  category: Ericsson hosted
+  description: Puppet module to manage beuser sudo wrapper
+  display_name: puppet-module-beuser
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-beuser
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-beuser
+    url: https://github.com/Ericsson/puppet-module-beuser
+- accepted_at: '2013-11-25'
+  category: Ericsson hosted
+  description: Puppet module to manage cgroups
+  display_name: puppet-module-cgroups
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: puppet-module-cgroups
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: puppet-module-cgroups
+    url: https://github.com/Ericsson/puppet-module-cgroups
+- accepted_at: '2016-06-16'
+  category: Ericsson hosted
+  description: null
+  display_name: c3-web-devtools
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-web-devtools
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-web-devtools
+    url: https://github.com/Ericsson/c3-web-devtools
+- accepted_at: '2016-08-24'
+  category: Ericsson hosted
+  description: null
+  display_name: c3-server-sdk
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-server-sdk
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-server-sdk
+    url: https://github.com/Ericsson/c3-server-sdk
+- accepted_at: '2016-10-21'
+  category: Ericsson hosted
+  description: ECCC iOS SDK
+  display_name: c3-ios-sdk
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-ios-sdk
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-ios-sdk
+    url: https://github.com/Ericsson/c3-ios-sdk
+- accepted_at: '2017-11-20'
+  category: Ericsson hosted
+  description: null
+  display_name: eiffel-jenkins-plugin
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-jenkins-plugin
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-jenkins-plugin
+    url: https://github.com/Ericsson/eiffel-jenkins-plugin
+- accepted_at: '2017-06-14'
+  category: Ericsson hosted
+  description: null
+  display_name: eiffel-event-repository
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-event-repository
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-event-repository
+    url: https://github.com/Ericsson/eiffel-event-repository
+- accepted_at: '2015-12-17'
+  category: Ericsson hosted
+  description: OSLC Hansoft Adapter extends Hansoft with OSLC/REST interface. OSLC/REST
+    interface allows access to Hansoft data from other external tools or systems.
+  display_name: hansoft-oslc-adapter
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: hansoft-oslc-adapter
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: hansoft-oslc-adapter
+    url: https://github.com/Ericsson/hansoft-oslc-adapter
+- accepted_at: '2016-05-02'
+  category: Ericsson hosted
+  description: eiffel-examples
+  display_name: eiffel-examples
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-examples
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-examples
+    url: https://github.com/Ericsson/eiffel-examples
+- accepted_at: '2016-09-13'
+  category: Ericsson hosted
+  description: eiffel-compcheck
+  display_name: eiffel-compcheck
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-compcheck
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-compcheck
+    url: https://github.com/Ericsson/eiffel-compcheck
+- accepted_at: '2016-05-02'
+  category: Ericsson hosted
+  description: eiffel-schemas
+  display_name: eiffel-schemas
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-schemas
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-schemas
+    url: https://github.com/Ericsson/eiffel-schemas
+- accepted_at: '2016-05-02'
+  category: Ericsson hosted
+  description: eiffel-remrem-subscribe
+  display_name: eiffel-remrem-subscribe
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: eiffel-remrem-subscribe
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eiffel-remrem-subscribe
+    url: https://github.com/Ericsson/eiffel-remrem-subscribe
+- accepted_at: '2016-04-24'
+  category: Ericsson hosted
+  description: null
+  display_name: c3-widgets
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: c3-widgets
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-widgets
+    url: https://github.com/Ericsson/c3-widgets
+- accepted_at: '2016-04-12'
+  category: Ericsson hosted
+  description: A generic system to build and distribute packages from sources in an
+    automatic, consistent and reproducible way. Release your software for a wide range
+    of operating systems and hardware architectures.
+  display_name: open-build-service
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: open-build-service
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: open-build-service
+    url: https://github.com/Ericsson/open-build-service
+- accepted_at: '2014-12-18'
+  category: Ericsson hosted
+  description: The OTRS framework.
+  display_name: otrs
+  logo_dark_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  logo_url: https://avatars.githubusercontent.com/u/4161311?s=200&v=4
+  maturity: sandbox
+  name: otrs
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: otrs
+    url: https://github.com/Ericsson/otrs
+
