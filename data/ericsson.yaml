@@ -32,8 +32,8 @@
   description: CodeCompass is a software comprehension tool for large scale software
     written in C/C++ and Java
   display_name: CodeCompass
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/CodeCompass/master/doc/logo/logo.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/CodeCompass/master/doc/logo/logo.png
   maturity: sandbox
   name: CodeCompass
   repositories:
@@ -133,8 +133,8 @@
   category: Ericsson hosted
   description: Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
   display_name: exchangecalendar
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: exchangecalendar
   repositories:
@@ -147,8 +147,8 @@
   category: Ericsson hosted
   description: Backstage is an open platform for building developer portals
   display_name: backstage
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: backstage
   repositories:
@@ -290,8 +290,8 @@
   description: EVA is a web-based tool for efficient annotation of videos and image
     sequences and has an additional tracking capabilities
   display_name: eva
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: eva
   repositories:
@@ -443,8 +443,8 @@
   category: Ericsson hosted
   description: A packet interceptor for Android built on top of VpnService
   display_name: extendedVPN
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: extendedVPN
   repositories:
@@ -529,8 +529,8 @@
   description: Scanner for vulnerabilities in container images, file systems, and
     Git repositories, as well as for configuration issues
   display_name: trivy
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: trivy
   repositories:
@@ -638,8 +638,8 @@
   category: Ericsson hosted
   description: Production-Grade Container Scheduling and Management
   display_name: kubernetes
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: kubernetes
   repositories:
@@ -654,8 +654,8 @@
     The repository does not accept github pull requests at this moment. Please submit
     your patches at http://reviews.llvm.org.
   display_name: llvm-project
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: llvm-project
   repositories:
@@ -685,8 +685,8 @@
   description: Implementation of the ROS Middleware (rmw) Interface using RTI's Connext
     DDS.
   display_name: ros2-rmw_connext
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ros2-rmw_connext
   repositories:
@@ -699,8 +699,8 @@
   category: Ericsson hosted
   description: Design documentation for ROS 2.0 effort
   display_name: ros2-design
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ros2-design
   repositories:
@@ -714,8 +714,8 @@
   description: ROS 2 RMW layer for RTI Connext DDS Professional and RTI Connext DDS
     Micro.
   display_name: ros2-rmw_connextdds
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ros2-rmw_connextdds
   repositories:
@@ -728,8 +728,8 @@
   category: Ericsson hosted
   description: ROS 2 RMW layer for Eclipse Cyclone DDS
   display_name: ros2-rmw_cyclonedds
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ros2-rmw_cyclonedds
   repositories:
@@ -756,8 +756,8 @@
   category: Ericsson hosted
   description: The ROS Middleware (rmw) Interface.
   display_name: ros2-rmw
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ros2-rmw
   repositories:
@@ -798,8 +798,8 @@
   category: Ericsson hosted
   description: Example packages for ROS2
   display_name: ros2-examples
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ros2-examples
   repositories:
@@ -973,8 +973,8 @@
   category: Ericsson hosted
   description: Puppet module to manage Vim
   display_name: puppet-module-vim
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: puppet-module-vim
   repositories:
@@ -1002,8 +1002,8 @@
   description: Mirror of official lldb git repository located at http://llvm.org/git/lldb.
     Updated every five minutes.
   display_name: lldb
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: lldb
   repositories:
@@ -1030,8 +1030,8 @@
   category: Ericsson hosted
   description: null
   display_name: puppetlabs-ruby
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: puppetlabs-ruby
   repositories:
@@ -1044,8 +1044,8 @@
   category: Ericsson hosted
   description: null
   display_name: puppet-module-auditusers
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: puppet-module-auditusers
   repositories:
@@ -1086,8 +1086,8 @@
   category: Ericsson hosted
   description: Script to use FPM to package Observium
   display_name: package-observium
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: package-observium
   repositories:
@@ -1114,8 +1114,8 @@
   category: Ericsson hosted
   description: null
   display_name: ebeam-tools
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ebeam-tools
   repositories:
@@ -1128,8 +1128,8 @@
   category: Ericsson hosted
   description: Boilerplate module skeleton to use when generating new Puppet modules
   display_name: puppet-module-skeleton
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: puppet-module-skeleton
   repositories:
@@ -1156,8 +1156,8 @@
   category: Ericsson hosted
   description: puppet module for the CUPS printing system
   display_name: puppet-cups
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: puppet-cups
   repositories:
@@ -1198,8 +1198,8 @@
   category: Ericsson hosted
   description: Ebeam USB Driver 0.9 by Yann Cantin
   display_name: ebeam-driver
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: ebeam-driver
   repositories:
@@ -1213,8 +1213,8 @@
   description: 'Pidgin and Finch: The Pimpin'' Penguin IM Clients That''re Good for
     the Soul - a git mirror of http://hg.pidgin.im/pidgin/main/'
   display_name: pidgin
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: pidgin
   repositories:
@@ -1229,8 +1229,8 @@
     and reporting features for Puppet, an open source system configuration management
     tool
   display_name: puppet-dashboard
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: puppet-dashboard
   repositories:
@@ -1244,8 +1244,8 @@
   description: A third-party Pidgin plugin for Microsoft Lync/OCS - clone of upstream
     http://repo.or.cz/w/siplcs.git
   display_name: sipe
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: sipe
   repositories:
@@ -1258,8 +1258,8 @@
   category: Ericsson hosted
   description: 'An OBS source service: Recompress files'
   display_name: obs-service-recompress
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: obs-service-recompress
   repositories:
@@ -1273,8 +1273,8 @@
   description: OBS source service to extract files from tar balls, eg .spec files
     maintained inside of the tar ball.
   display_name: obs-service-extract_file
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: obs-service-extract_file
   repositories:
@@ -1301,8 +1301,8 @@
   category: Ericsson hosted
   description: 'An OBS source service: fetches SCM tarballs'
   display_name: obs-service-tar_scm
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: obs-service-tar_scm
   repositories:
@@ -1315,8 +1315,8 @@
   category: Ericsson hosted
   description: Compare content of rpm package and find differences inside the files.
   display_name: build-compare
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: build-compare
   repositories:
@@ -1343,8 +1343,8 @@
   category: Ericsson hosted
   description: OBS build script, can be used with OBS or stand alone
   display_name: obs-build
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: obs-build
   repositories:
@@ -1357,8 +1357,8 @@
   category: Ericsson hosted
   description: The Command Line Interface to work with an openSUSE Build Service
   display_name: osc
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: osc
   repositories:
@@ -1626,8 +1626,8 @@
     automatic, consistent and reproducible way. Release your software for a wide range
     of operating systems and hardware architectures.
   display_name: open-build-service
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: open-build-service
   repositories:
@@ -1640,8 +1640,8 @@
   category: Ericsson hosted
   description: The OTRS framework.
   display_name: otrs
-  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
-  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
+  logo_dark_url: 
+  logo_url: 
   maturity: sandbox
   name: otrs
   repositories:
