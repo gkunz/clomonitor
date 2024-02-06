@@ -2,8 +2,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: iot-framework-engine
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: iot-framework-engine
   repositories:
@@ -16,8 +16,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: iot-framework-gui
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: iot-framework-gui
   repositories:
@@ -30,8 +30,8 @@
   category: Hosted on EricssonResearch
   description: An Erlang app for communicating with Elastic Search's rest interface.
   display_name: erlastic_search
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: erlastic_search
   repositories:
@@ -44,8 +44,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: iot-framework-api-java
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: iot-framework-api-java
   repositories:
@@ -58,8 +58,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: iot-framework-api-python
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: iot-framework-api-python
   repositories:
@@ -72,8 +72,8 @@
   category: Hosted on EricssonResearch
   description: A WebRTC browser for iOS developed in the open
   display_name: bowser
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: bowser
   repositories:
@@ -86,8 +86,8 @@
   category: Hosted on EricssonResearch
   description: A cross-platform WebRTC client framework based on GStreamer
   display_name: openwebrtc
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc
   repositories:
@@ -100,8 +100,8 @@
   category: Hosted on EricssonResearch
   description: OpenWebRTC specific GStreamer plugins
   display_name: openwebrtc-gst-plugins
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc-gst-plugins
   repositories:
@@ -114,8 +114,8 @@
   category: Hosted on EricssonResearch
   description: Build scripts for OpenWebRTC
   display_name: openwebrtc-build-scripts
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc-build-scripts
   repositories:
@@ -128,8 +128,8 @@
   category: Hosted on EricssonResearch
   description: Add WebRTC support to existing browsers using OpenWebRTC
   display_name: openwebrtc-browser-extensions
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc-browser-extensions
   repositories:
@@ -142,8 +142,8 @@
   category: Hosted on EricssonResearch
   description: Examples apps showing how to use OpenWebRTC
   display_name: openwebrtc-examples
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc-examples
   repositories:
@@ -156,8 +156,8 @@
   category: Hosted on EricssonResearch
   description: Transport Abstraction Package
   display_name: trap
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: trap
   repositories:
@@ -170,8 +170,8 @@
   category: Hosted on EricssonResearch
   description: SCReAM - Mobile optimised congestion control algorithm
   display_name: scream
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: scream
   repositories:
@@ -184,8 +184,8 @@
   category: Hosted on EricssonResearch
   description: 'SDK for adding OpenWebRTC to your iOS apps using CocoaPods '
   display_name: openwebrtc-ios-sdk
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc-ios-sdk
   repositories:
@@ -198,8 +198,8 @@
   category: Hosted on EricssonResearch
   description: SDK for adding OpenWebRTC to your Android app
   display_name: openwebrtc-android-sdk
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: openwebrtc-android-sdk
   repositories:
@@ -212,8 +212,8 @@
   category: Hosted on EricssonResearch
   description: OpenWebRTC cerbero fork
   display_name: cerbero
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: cerbero
   repositories:
@@ -226,8 +226,8 @@
   category: Hosted on EricssonResearch
   description: Deployment checklist for securely deploying Docker
   display_name: Docker-Secure-Deployment-Guidelines
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: Docker-Secure-Deployment-Guidelines
   repositories:
@@ -241,8 +241,8 @@
   description: Calvin is an application environment that lets things talk to things,
     among other things.
   display_name: calvin-base
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: calvin-base
   repositories:
@@ -255,8 +255,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: ldap4pl
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: ldap4pl
   repositories:
@@ -269,8 +269,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: plasticsearch
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: plasticsearch
   repositories:
@@ -283,8 +283,8 @@
   category: Hosted on EricssonResearch
   description: Repo for Project CS 2015 - Uppsala University - http://www.it.uu.se/edu/course/homepage/projektDV/ht15
   display_name: monad
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: monad
   repositories:
@@ -297,8 +297,8 @@
   category: Hosted on EricssonResearch
   description: 'This repo is for the KTH Embedded Systems Design project course MF2063:  https://www.kth.se/social/course/MF2063/'
   display_name: flyingaps
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: flyingaps
   repositories:
@@ -311,8 +311,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: Blind-Cache-Drafts
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: Blind-Cache-Drafts
   repositories:
@@ -325,8 +325,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: service-worker-experiments
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: service-worker-experiments
   repositories:
@@ -339,8 +339,8 @@
   category: Hosted on EricssonResearch
   description: C based implementation of Calvin runtime for constrained devices
   display_name: calvin-constrained
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: calvin-constrained
   repositories:
@@ -354,8 +354,8 @@
   description: a collection of echo services implemented in different languages using
     different frameworks for benchmarking purposes
   display_name: micro-bench
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: micro-bench
   repositories:
@@ -368,8 +368,8 @@
   category: Hosted on EricssonResearch
   description: Demo banking app for Ericsson Contextual Communication Cloud
   display_name: c3-bank-demo
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: c3-bank-demo
   repositories:
@@ -382,8 +382,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: EDHOC
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: EDHOC
   repositories:
@@ -397,8 +397,8 @@
   description: OpenSAW is a framework that uses concolic execution to find bugs in
     compiled programs."
   display_name: OpenSAW
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: OpenSAW
   repositories:
@@ -411,8 +411,8 @@
   category: Hosted on EricssonResearch
   description: Protecting EST payloads with OSCORE
   display_name: EST-OSCORE
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: EST-OSCORE
   repositories:
@@ -425,8 +425,8 @@
   category: Hosted on EricssonResearch
   description: "SCOTT \u2013 Secure Connected Trustable Things"
   display_name: scott-eu
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: scott-eu
   repositories:
@@ -439,8 +439,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: coap-actuators
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: coap-actuators
   repositories:
@@ -453,8 +453,8 @@
   category: Hosted on EricssonResearch
   description: Agenda, Minutes, Presentations
   display_name: wg-materials
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: wg-materials
   repositories:
@@ -467,8 +467,8 @@
   category: Hosted on EricssonResearch
   description: Implementation of OSLC Core in SWI-Prolog
   display_name: oslc_prolog
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: oslc_prolog
   repositories:
@@ -481,8 +481,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: meca
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: meca
   repositories:
@@ -495,8 +495,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: tnmt
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: tnmt
   repositories:
@@ -509,8 +509,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: arms
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: arms
   repositories:
@@ -524,8 +524,8 @@
   description: Spindump is an in-network latency measurement tool with support for
     QUIC and TCP
   display_name: spindump
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: spindump
   repositories:
@@ -538,8 +538,8 @@
   category: Hosted on EricssonResearch
   description: Urban Traffic Agent built with the MECA cognitive Architecture
   display_name: uta
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: uta
   repositories:
@@ -552,8 +552,8 @@
   category: Hosted on EricssonResearch
   description: Collaboration project with KCL around AI planning
   display_name: droneacharya
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: droneacharya
   repositories:
@@ -566,8 +566,8 @@
   category: Hosted on EricssonResearch
   description: Tools for translating IPSO/LwM2M and OneDM SDF models
   display_name: ipso-odm
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: ipso-odm
   repositories:
@@ -580,8 +580,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: ace-ake-authz
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: ace-ake-authz
   repositories:
@@ -594,8 +594,8 @@
   category: Hosted on EricssonResearch
   description: Decentralized Air quality Monitoring and Prediction
   display_name: damp
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: damp
   repositories:
@@ -608,8 +608,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: FluxHELayers.jl
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: FluxHELayers.jl
   repositories:
@@ -622,8 +622,8 @@
   category: Hosted on EricssonResearch
   description: 'HydraGen: A Microservice Benchmark Generator'
   display_name: cloud-native-app-simulator
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: cloud-native-app-simulator
   repositories:
@@ -636,8 +636,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: ace-edhoc-oscore-profile
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: ace-edhoc-oscore-profile
   repositories:
@@ -650,8 +650,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: fl-moe
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: fl-moe
   repositories:
@@ -664,8 +664,8 @@
   category: Hosted on EricssonResearch
   description: Uppsala Project CS 2022
   display_name: spreadnet
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: spreadnet
   repositories:
@@ -678,8 +678,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: kollagen
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: kollagen
   repositories:
@@ -692,8 +692,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: v2x-self-revocation
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: v2x-self-revocation
   repositories:
@@ -706,8 +706,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: icassp-2023
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: icassp-2023
   repositories:
@@ -720,8 +720,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: secure-rewind-and-discard
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: secure-rewind-and-discard
   repositories:
@@ -734,8 +734,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: eon
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: eon
   repositories:
@@ -749,8 +749,8 @@
   description: "Official implementation of \u201CEvaluating Neighbor Explainability\
     \ for Graph Neural Networks\u201D"
   display_name: gnn-neighbors-xai
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: gnn-neighbors-xai
   repositories:
@@ -763,8 +763,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: udp-ping
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: udp-ping
   repositories:
@@ -777,8 +777,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: sdradrustffi
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: sdradrustffi
   repositories:
@@ -791,8 +791,8 @@
   category: Hosted on EricssonResearch
   description: Network-Aware Service Continuity Assurance (NASCA)
   display_name: network-aware-service-continuity-assurance
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: network-aware-service-continuity-assurance
   repositories:
@@ -805,8 +805,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: Line-Based-Room-Segmentation-and-EDF
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: Line-Based-Room-Segmentation-and-EDF
   repositories:
@@ -820,8 +820,8 @@
   description: The repository contains network extensions modelled in Yang of the
     URDF descritions of various IoT devices
   display_name: urdf-yang
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: urdf-yang
   repositories:
@@ -834,8 +834,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: Robust-Tracking-MPC-over-Lossy-Networks
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: Robust-Tracking-MPC-over-Lossy-Networks
   repositories:
@@ -849,8 +849,8 @@
   description: This repository contains the implementation of the congruent federated
     learning (CFL) to be published at IEEE TMLCN
   display_name: congruent-federated-learning
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: congruent-federated-learning
   repositories:
@@ -863,8 +863,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: cti-kb
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: cti-kb
   repositories:
@@ -877,8 +877,8 @@
   category: Hosted on EricssonResearch
   description: null
   display_name: Dynamic-Edge-Server-Grouping
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: Dynamic-Edge-Server-Grouping
   repositories:
@@ -891,8 +891,8 @@
   category: Hosted on EricssonResearch
   description: Unsupervised Domain Adaptation for Time Series Classification
   display_name: UDA-4-TSC
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: UDA-4-TSC
   repositories:
@@ -906,8 +906,8 @@
   description: Partial BPF/XDP implementation of experimental research prototype IEEE
     802.1CB FRER for Linux
   display_name: xdpfrer
-  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
-  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  logo_dark_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-white.png
+  logo_url: https://raw.githubusercontent.com/gkunz/clomonitor/repo-list/data/logos/econ-black.png
   maturity: sandbox
   name: xdpfrer
   repositories:
