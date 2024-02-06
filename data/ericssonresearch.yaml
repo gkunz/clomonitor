@@ -1,0 +1,919 @@
+- accepted_at: '2014-08-08'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: iot-framework-engine
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: iot-framework-engine
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: iot-framework-engine
+    url: https://github.com/EricssonResearch/iot-framework-engine
+- accepted_at: '2014-08-12'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: iot-framework-gui
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: iot-framework-gui
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: iot-framework-gui
+    url: https://github.com/EricssonResearch/iot-framework-gui
+- accepted_at: '2014-08-19'
+  category: Hosted on EricssonResearch
+  description: An Erlang app for communicating with Elastic Search's rest interface.
+  display_name: erlastic_search
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: erlastic_search
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: erlastic_search
+    url: https://github.com/EricssonResearch/erlastic_search
+- accepted_at: '2014-09-09'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: iot-framework-api-java
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: iot-framework-api-java
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: iot-framework-api-java
+    url: https://github.com/EricssonResearch/iot-framework-api-java
+- accepted_at: '2014-09-09'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: iot-framework-api-python
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: iot-framework-api-python
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: iot-framework-api-python
+    url: https://github.com/EricssonResearch/iot-framework-api-python
+- accepted_at: '2014-09-22'
+  category: Hosted on EricssonResearch
+  description: A WebRTC browser for iOS developed in the open
+  display_name: bowser
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: bowser
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: bowser
+    url: https://github.com/EricssonResearch/bowser
+- accepted_at: '2014-09-22'
+  category: Hosted on EricssonResearch
+  description: A cross-platform WebRTC client framework based on GStreamer
+  display_name: openwebrtc
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc
+    url: https://github.com/EricssonResearch/openwebrtc
+- accepted_at: '2014-09-22'
+  category: Hosted on EricssonResearch
+  description: OpenWebRTC specific GStreamer plugins
+  display_name: openwebrtc-gst-plugins
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc-gst-plugins
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc-gst-plugins
+    url: https://github.com/EricssonResearch/openwebrtc-gst-plugins
+- accepted_at: '2014-09-22'
+  category: Hosted on EricssonResearch
+  description: Build scripts for OpenWebRTC
+  display_name: openwebrtc-build-scripts
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc-build-scripts
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc-build-scripts
+    url: https://github.com/EricssonResearch/openwebrtc-build-scripts
+- accepted_at: '2014-10-01'
+  category: Hosted on EricssonResearch
+  description: Add WebRTC support to existing browsers using OpenWebRTC
+  display_name: openwebrtc-browser-extensions
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc-browser-extensions
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc-browser-extensions
+    url: https://github.com/EricssonResearch/openwebrtc-browser-extensions
+- accepted_at: '2014-10-05'
+  category: Hosted on EricssonResearch
+  description: Examples apps showing how to use OpenWebRTC
+  display_name: openwebrtc-examples
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc-examples
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc-examples
+    url: https://github.com/EricssonResearch/openwebrtc-examples
+- accepted_at: '2014-11-11'
+  category: Hosted on EricssonResearch
+  description: Transport Abstraction Package
+  display_name: trap
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: trap
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: trap
+    url: https://github.com/EricssonResearch/trap
+- accepted_at: '2015-01-27'
+  category: Hosted on EricssonResearch
+  description: SCReAM - Mobile optimised congestion control algorithm
+  display_name: scream
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: scream
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: scream
+    url: https://github.com/EricssonResearch/scream
+- accepted_at: '2015-02-15'
+  category: Hosted on EricssonResearch
+  description: 'SDK for adding OpenWebRTC to your iOS apps using CocoaPods '
+  display_name: openwebrtc-ios-sdk
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc-ios-sdk
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc-ios-sdk
+    url: https://github.com/EricssonResearch/openwebrtc-ios-sdk
+- accepted_at: '2015-03-21'
+  category: Hosted on EricssonResearch
+  description: SDK for adding OpenWebRTC to your Android app
+  display_name: openwebrtc-android-sdk
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: openwebrtc-android-sdk
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: openwebrtc-android-sdk
+    url: https://github.com/EricssonResearch/openwebrtc-android-sdk
+- accepted_at: '2015-03-25'
+  category: Hosted on EricssonResearch
+  description: OpenWebRTC cerbero fork
+  display_name: cerbero
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: cerbero
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: cerbero
+    url: https://github.com/EricssonResearch/cerbero
+- accepted_at: '2015-05-09'
+  category: Hosted on EricssonResearch
+  description: Deployment checklist for securely deploying Docker
+  display_name: Docker-Secure-Deployment-Guidelines
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: Docker-Secure-Deployment-Guidelines
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Docker-Secure-Deployment-Guidelines
+    url: https://github.com/EricssonResearch/Docker-Secure-Deployment-Guidelines
+- accepted_at: '2015-05-19'
+  category: Hosted on EricssonResearch
+  description: Calvin is an application environment that lets things talk to things,
+    among other things.
+  display_name: calvin-base
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: calvin-base
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: calvin-base
+    url: https://github.com/EricssonResearch/calvin-base
+- accepted_at: '2015-06-06'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: ldap4pl
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: ldap4pl
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ldap4pl
+    url: https://github.com/EricssonResearch/ldap4pl
+- accepted_at: '2015-06-18'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: plasticsearch
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: plasticsearch
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: plasticsearch
+    url: https://github.com/EricssonResearch/plasticsearch
+- accepted_at: '2015-09-03'
+  category: Hosted on EricssonResearch
+  description: Repo for Project CS 2015 - Uppsala University - http://www.it.uu.se/edu/course/homepage/projektDV/ht15
+  display_name: monad
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: monad
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: monad
+    url: https://github.com/EricssonResearch/monad
+- accepted_at: '2015-09-17'
+  category: Hosted on EricssonResearch
+  description: 'This repo is for the KTH Embedded Systems Design project course MF2063:  https://www.kth.se/social/course/MF2063/'
+  display_name: flyingaps
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: flyingaps
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: flyingaps
+    url: https://github.com/EricssonResearch/flyingaps
+- accepted_at: '2016-02-13'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: Blind-Cache-Drafts
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: Blind-Cache-Drafts
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Blind-Cache-Drafts
+    url: https://github.com/EricssonResearch/Blind-Cache-Drafts
+- accepted_at: '2016-04-15'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: service-worker-experiments
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: service-worker-experiments
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: service-worker-experiments
+    url: https://github.com/EricssonResearch/service-worker-experiments
+- accepted_at: '2016-06-17'
+  category: Hosted on EricssonResearch
+  description: C based implementation of Calvin runtime for constrained devices
+  display_name: calvin-constrained
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: calvin-constrained
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: calvin-constrained
+    url: https://github.com/EricssonResearch/calvin-constrained
+- accepted_at: '2016-10-21'
+  category: Hosted on EricssonResearch
+  description: a collection of echo services implemented in different languages using
+    different frameworks for benchmarking purposes
+  display_name: micro-bench
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: micro-bench
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: micro-bench
+    url: https://github.com/EricssonResearch/micro-bench
+- accepted_at: '2016-10-28'
+  category: Hosted on EricssonResearch
+  description: Demo banking app for Ericsson Contextual Communication Cloud
+  display_name: c3-bank-demo
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: c3-bank-demo
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: c3-bank-demo
+    url: https://github.com/EricssonResearch/c3-bank-demo
+- accepted_at: '2016-11-23'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: EDHOC
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: EDHOC
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: EDHOC
+    url: https://github.com/EricssonResearch/EDHOC
+- accepted_at: '2017-02-06'
+  category: Hosted on EricssonResearch
+  description: OpenSAW is a framework that uses concolic execution to find bugs in
+    compiled programs."
+  display_name: OpenSAW
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: OpenSAW
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: OpenSAW
+    url: https://github.com/EricssonResearch/OpenSAW
+- accepted_at: '2017-02-20'
+  category: Hosted on EricssonResearch
+  description: Protecting EST payloads with OSCORE
+  display_name: EST-OSCORE
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: EST-OSCORE
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: EST-OSCORE
+    url: https://github.com/EricssonResearch/EST-OSCORE
+- accepted_at: '2017-06-29'
+  category: Hosted on EricssonResearch
+  description: "SCOTT \u2013 Secure Connected Trustable Things"
+  display_name: scott-eu
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: scott-eu
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: scott-eu
+    url: https://github.com/EricssonResearch/scott-eu
+- accepted_at: '2017-07-03'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: coap-actuators
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: coap-actuators
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: coap-actuators
+    url: https://github.com/EricssonResearch/coap-actuators
+- accepted_at: '2018-01-22'
+  category: Hosted on EricssonResearch
+  description: Agenda, Minutes, Presentations
+  display_name: wg-materials
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: wg-materials
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: wg-materials
+    url: https://github.com/EricssonResearch/wg-materials
+- accepted_at: '2018-01-29'
+  category: Hosted on EricssonResearch
+  description: Implementation of OSLC Core in SWI-Prolog
+  display_name: oslc_prolog
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: oslc_prolog
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: oslc_prolog
+    url: https://github.com/EricssonResearch/oslc_prolog
+- accepted_at: '2018-03-20'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: meca
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: meca
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: meca
+    url: https://github.com/EricssonResearch/meca
+- accepted_at: '2018-09-10'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: tnmt
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: tnmt
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: tnmt
+    url: https://github.com/EricssonResearch/tnmt
+- accepted_at: '2018-09-20'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: arms
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: arms
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: arms
+    url: https://github.com/EricssonResearch/arms
+- accepted_at: '2019-01-20'
+  category: Hosted on EricssonResearch
+  description: Spindump is an in-network latency measurement tool with support for
+    QUIC and TCP
+  display_name: spindump
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: spindump
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: spindump
+    url: https://github.com/EricssonResearch/spindump
+- accepted_at: '2019-07-05'
+  category: Hosted on EricssonResearch
+  description: Urban Traffic Agent built with the MECA cognitive Architecture
+  display_name: uta
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: uta
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: uta
+    url: https://github.com/EricssonResearch/uta
+- accepted_at: '2019-07-09'
+  category: Hosted on EricssonResearch
+  description: Collaboration project with KCL around AI planning
+  display_name: droneacharya
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: droneacharya
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: droneacharya
+    url: https://github.com/EricssonResearch/droneacharya
+- accepted_at: '2019-07-21'
+  category: Hosted on EricssonResearch
+  description: Tools for translating IPSO/LwM2M and OneDM SDF models
+  display_name: ipso-odm
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: ipso-odm
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ipso-odm
+    url: https://github.com/EricssonResearch/ipso-odm
+- accepted_at: '2020-01-17'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: ace-ake-authz
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: ace-ake-authz
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ace-ake-authz
+    url: https://github.com/EricssonResearch/ace-ake-authz
+- accepted_at: '2020-08-26'
+  category: Hosted on EricssonResearch
+  description: Decentralized Air quality Monitoring and Prediction
+  display_name: damp
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: damp
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: damp
+    url: https://github.com/EricssonResearch/damp
+- accepted_at: '2021-11-30'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: FluxHELayers.jl
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: FluxHELayers.jl
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: FluxHELayers.jl
+    url: https://github.com/EricssonResearch/FluxHELayers.jl
+- accepted_at: '2021-12-15'
+  category: Hosted on EricssonResearch
+  description: 'HydraGen: A Microservice Benchmark Generator'
+  display_name: cloud-native-app-simulator
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: cloud-native-app-simulator
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: cloud-native-app-simulator
+    url: https://github.com/EricssonResearch/cloud-native-app-simulator
+- accepted_at: '2022-04-04'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: ace-edhoc-oscore-profile
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: ace-edhoc-oscore-profile
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: ace-edhoc-oscore-profile
+    url: https://github.com/EricssonResearch/ace-edhoc-oscore-profile
+- accepted_at: '2022-06-14'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: fl-moe
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: fl-moe
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: fl-moe
+    url: https://github.com/EricssonResearch/fl-moe
+- accepted_at: '2022-08-29'
+  category: Hosted on EricssonResearch
+  description: Uppsala Project CS 2022
+  display_name: spreadnet
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: spreadnet
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: spreadnet
+    url: https://github.com/EricssonResearch/spreadnet
+- accepted_at: '2022-09-14'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: kollagen
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: kollagen
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: kollagen
+    url: https://github.com/EricssonResearch/kollagen
+- accepted_at: '2022-10-19'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: v2x-self-revocation
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: v2x-self-revocation
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: v2x-self-revocation
+    url: https://github.com/EricssonResearch/v2x-self-revocation
+- accepted_at: '2023-02-21'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: icassp-2023
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: icassp-2023
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: icassp-2023
+    url: https://github.com/EricssonResearch/icassp-2023
+- accepted_at: '2023-04-17'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: secure-rewind-and-discard
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: secure-rewind-and-discard
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: secure-rewind-and-discard
+    url: https://github.com/EricssonResearch/secure-rewind-and-discard
+- accepted_at: '2023-06-26'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: eon
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: eon
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: eon
+    url: https://github.com/EricssonResearch/eon
+- accepted_at: '2023-08-16'
+  category: Hosted on EricssonResearch
+  description: "Official implementation of \u201CEvaluating Neighbor Explainability\
+    \ for Graph Neural Networks\u201D"
+  display_name: gnn-neighbors-xai
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: gnn-neighbors-xai
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: gnn-neighbors-xai
+    url: https://github.com/EricssonResearch/gnn-neighbors-xai
+- accepted_at: '2023-08-16'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: udp-ping
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: udp-ping
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: udp-ping
+    url: https://github.com/EricssonResearch/udp-ping
+- accepted_at: '2023-08-24'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: sdradrustffi
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: sdradrustffi
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: sdradrustffi
+    url: https://github.com/EricssonResearch/sdradrustffi
+- accepted_at: '2023-08-28'
+  category: Hosted on EricssonResearch
+  description: Network-Aware Service Continuity Assurance (NASCA)
+  display_name: network-aware-service-continuity-assurance
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: network-aware-service-continuity-assurance
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: network-aware-service-continuity-assurance
+    url: https://github.com/EricssonResearch/network-aware-service-continuity-assurance
+- accepted_at: '2023-10-03'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: Line-Based-Room-Segmentation-and-EDF
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: Line-Based-Room-Segmentation-and-EDF
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Line-Based-Room-Segmentation-and-EDF
+    url: https://github.com/EricssonResearch/Line-Based-Room-Segmentation-and-EDF
+- accepted_at: '2023-10-13'
+  category: Hosted on EricssonResearch
+  description: The repository contains network extensions modelled in Yang of the
+    URDF descritions of various IoT devices
+  display_name: urdf-yang
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: urdf-yang
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: urdf-yang
+    url: https://github.com/EricssonResearch/urdf-yang
+- accepted_at: '2023-10-13'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: Robust-Tracking-MPC-over-Lossy-Networks
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: Robust-Tracking-MPC-over-Lossy-Networks
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Robust-Tracking-MPC-over-Lossy-Networks
+    url: https://github.com/EricssonResearch/Robust-Tracking-MPC-over-Lossy-Networks
+- accepted_at: '2023-11-03'
+  category: Hosted on EricssonResearch
+  description: This repository contains the implementation of the congruent federated
+    learning (CFL) to be published at IEEE TMLCN
+  display_name: congruent-federated-learning
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: congruent-federated-learning
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: congruent-federated-learning
+    url: https://github.com/EricssonResearch/congruent-federated-learning
+- accepted_at: '2023-11-20'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: cti-kb
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: cti-kb
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: cti-kb
+    url: https://github.com/EricssonResearch/cti-kb
+- accepted_at: '2023-11-20'
+  category: Hosted on EricssonResearch
+  description: null
+  display_name: Dynamic-Edge-Server-Grouping
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: Dynamic-Edge-Server-Grouping
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: Dynamic-Edge-Server-Grouping
+    url: https://github.com/EricssonResearch/Dynamic-Edge-Server-Grouping
+- accepted_at: '2023-12-15'
+  category: Hosted on EricssonResearch
+  description: Unsupervised Domain Adaptation for Time Series Classification
+  display_name: UDA-4-TSC
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: UDA-4-TSC
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: UDA-4-TSC
+    url: https://github.com/EricssonResearch/UDA-4-TSC
+- accepted_at: '2024-01-23'
+  category: Hosted on EricssonResearch
+  description: Partial BPF/XDP implementation of experimental research prototype IEEE
+    802.1CB FRER for Linux
+  display_name: xdpfrer
+  logo_dark_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_white.png
+  logo_url: https://raw.githubusercontent.com/Ericsson/codechecker/master/docs/logo/logo_blue.png
+  maturity: sandbox
+  name: xdpfrer
+  repositories:
+  - check_sets:
+    - community
+    - code
+    name: xdpfrer
+    url: https://github.com/EricssonResearch/xdpfrer
+
